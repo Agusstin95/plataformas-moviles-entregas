@@ -1,0 +1,37 @@
+*{
+background-color: #222;
+color:#ee6
+}
+
+h1{
+    text-align: center;
+    color: #eee;
+}
+
+h2, h3{
+    color: #eee;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.the-force{
+    background:#444;
+}
+
+.light-side{
+    color: #66f;
+}
+
+.dark-side{
+    color: #f33;
+}
+
+#og-trilogy{
+    list-style-type: circle;
+}
+
+strong{
+    border-bottom: 1px solid rgb(255, 255, 255); 
+}
